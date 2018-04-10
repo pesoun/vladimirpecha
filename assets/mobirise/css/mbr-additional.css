@@ -1950,7 +1950,7 @@ body {
   border: 2px solid #fff;
   border-radius: 50%;
   opacity: .5;
-  transition: all .3s;
+  transition: all .s;
 }
 .cid-qOOEXvbFjP .mbr-slider .carousel-indicators li.active,
 .cid-qOOEXvbFjP .mbr-slider .carousel-indicators li:hover {
@@ -1980,7 +1980,7 @@ body {
   top: 50%;
   right: 0;
   left: 0;
-  z-index: 2;
+  z-index: 0;
   -moz-transform: translateY(-50%);
   -webkit-transform: translateY(-50%);
   transform: translateY(-50%);
@@ -2162,7 +2162,7 @@ body {
 }
 .cid-qOOkjxMv8M .time-line-date-content p {
   padding: 2rem 2.5rem;
-  background: #465052;
+  background: #;
   float: right;
 }
 .cid-qOOkjxMv8M .timeline-element {
