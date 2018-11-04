@@ -2053,7 +2053,10 @@ body {
   width: 100%;
   position: relative;
   display: inline-block;
+  opacity: 0.8;
 }
+.image_wrapper:hover {opacity: 1}
+
 .cid-qOOEXvbFjP .image_wrapper img {
   width: auto !important;
   height: 100%;
