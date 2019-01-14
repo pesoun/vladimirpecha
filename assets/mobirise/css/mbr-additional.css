@@ -449,16 +449,16 @@ body {
 .btn-white-outline,
 .btn-white-outline:active,
 .btn-white-outline.active {
-  background: none;
+  background: #ffffff;
   border-color: #ffffff;
-  color: #ffffff;
+  color: #000000;
 }
 .btn-white-outline:hover,
 .btn-white-outline:focus,
 .btn-white-outline.focus {
   color: #333333;
-  background-color: #ffffff;
-  border-color: #ffffff;
+  background-color: #8E8E8E;
+  border-color: #8E8E8E;
 }
 .text-primary {
   color: #149dcc !important;
